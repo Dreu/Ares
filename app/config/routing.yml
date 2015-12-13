@@ -1,3 +1,7 @@
+ares_user:
+    resource: "@AresUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
 ares_site:
     resource: "@AresSiteBundle/Resources/config/routing.yml"
     prefix:   /Ares
